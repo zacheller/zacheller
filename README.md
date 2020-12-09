@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://zacheller.dev/whoami/">
-		<img src="header.svg" width="800" height="400">
+		<img src="header.svg" alt="Hi there!">
 	</a>
 	<br>
 </div>
